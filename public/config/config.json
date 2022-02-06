@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xca37877e24f596ed8b9a936e38d1a544c82c7f8f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xe7eab46a76bd5a990d6f3cb66e1264b42b87b087d1607b76704387bc620da5fa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoDoms",
+  "SYMBOL": "CDNFT",
+  "MAX_SUPPLY": 600,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptodoms",
+  "SHOW_BACKGROUND": true
+}
